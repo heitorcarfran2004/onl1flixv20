@@ -1,9 +1,0 @@
-{
-  "name": "onlyflix-sync-v3",
-  "version": "1.0.0",
-  "description": "Integration with SyncPay and Vercel Functions",
-  "main": "server.js",
-  "dependencies": {
-    "nodemailer": "^6.9.13"
-  }
-}
